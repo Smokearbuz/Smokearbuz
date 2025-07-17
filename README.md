@@ -1,16 +1,22 @@
-## Hi there 👋
+# Хелоу, я типу  Arbu) 
 
-<!--
-**Smokearbuz/Smokearbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать у мій цифровий бардачок.  
+Тут трохи коду, трохи хаосу, трохи кави (віртуальної ☕).  
+Я пишу боти, ховаю API-ключі краще, ніж Google,  
+і час від часу роблю вигляд, що знаю, що роблю 😎
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Що я роблю, коли не залипаю в VS Code:
+
+- 🎮 Граю в ігри й думаю, чому не зробив свій лаунчер  
+- 💬 Пиляю Telegram-ботів, бо люблю кнопочки й автоматику  
+- 🎧 Слухаю Lo-Fi і зависаю над одним `console.log` годину  
+- 🛠️ Іноді щось навіть працює з першого разу (це не точно)
+
+---
+
+## 💾 Мій стек:
+
+```js
+const stack = ['JavaScript', 'Node.js', 'Python', 'Telegram API', 'MongoDB', 'VS Code', 'Ctrl+Z'];
