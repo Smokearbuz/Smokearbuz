@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwZ3J0eWJ4M2Z5b2x6N3R0ZzZ2eHp2dGZ1bnRqZW51dWZ1bmN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px" alt="Привіт"> Привіт, я Євген 👨‍💻
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwZ3J0eWJ4M2Z5b2x6N3R0ZzZ2eHp2dGZ1bnRqZW51dWZ1bmN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px" alt="Привіт"> Хелоу, я типу Arbu 👨‍💻
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧠 Трохи про мене (версія з гумором)
+### 🧠 Трохи про мене 
 
 > *"Якщо код працює — не чіпай його. Якщо не працює — все одно не чіпай, бо може стати гірше"*  
 
