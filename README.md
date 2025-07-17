@@ -5,11 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=console.log(%22Боти+які+живуть%22)+%2F%2F+true%F0%9F%A4%96;debugger%3B+%2F%2F+Мій+найкращий+друг%F0%9F%98%82;npm+install+--save+coffee+%26%26+sleepless+nights%F0%9F%92%80" alt="Typing SVG">
 </p> 
----
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arbu&theme=onedark&row=2&column=3" alt="Trophies" />
-</div>
 
 ---
 
