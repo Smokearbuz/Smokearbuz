@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwZ3J0eWJ4M2Z5b2x6N3R0ZzZ2eHp2dGZ1bnRqZW51dWZ1bmN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px" alt="Привіт"> Привіт, я Євген 👨‍💻
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=console.log(%22Боти+які+живуть%22)%3B+//+true%F0%9F%A4%96;debugger%3B+//+Мій+найкращий+друг%F0%9F%98%82;npm+install+--save+coffee+&&+sleepless+nights%F0%9F%92%80" alt="Typing SVG" />
-</p>
 
 ---
 
