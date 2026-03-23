@@ -1,52 +1,15 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlwZ3J0eWJ4M2Z5b2x6N3R0ZzZ2eHp2dGZ1bnRqZW51dWZ1bmN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px" alt="Привіт"> Хелоу, я типу Arbu 👨‍💻
-</h1>
+#  Yevhen Lytvyn 🛡️
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=console.log(%22Боти+які+живуть%22)+%2F%2F+true%F0%9F%A4%96;debugger%3B+%2F%2F+Мій+найкращий+друг%F0%9F%98%82;npm+install+--save+coffee+%26%26+sleepless+nights%F0%9F%92%80" alt="Typing SVG">
-</p> 
+### 🛠 Стек технологій
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Fedora-0B5794?style=for-the-badge&logo=fedora&logoColor=white)
 
+### 🚀 Поточні проєкти
+* **Cyberpunk MMORPG Bot** — розробка логіки для ігрового бота.
+* **IoT Weather Station** — інтеграція Arduino з Telegram API.
+* **Academic Labs** — алгоритми та структури даних (BST, шифрування).
 
----
-
-### 🧠 Трохи про мене 
-
-> *"Якщо код працює — не чіпай його. Якщо не працює — все одно не чіпай, бо може стати гірше"*  
-
-- 🤖 **Автор ботів**, які іноді розумніші за мене  
-- ☕ **Кофейний наркоман** (без кави мій код компілюється в "Uncaught ReferenceError: motivation is not defined")  
-- 🌙 **Нічний кодер** ("Ще одну функцію і спати" — брехня, яку я собі кажу щовечора)  
-
----
-
-### 🚀 Мій техностек
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,mongodb,postgres,git,github,vscode,figma,react,express,aws,docker" />
-</p>
-
----
-
-### 🔥 Актуальні проєкти
-
-| Назва | Опис | Технології | Статус |
-|-------|------|------------|--------|
-| **🤖 AlertBot** | Розширена версія бота для тривог | Python, Telegraf, Redis | ✔️ |
-| **💸 Travel Gide Bot** | Трейдинг бот з ML-підказками | Python, Binance API, TensorFlow | 🔧 В розробці |
-| **🎮 GameDev Helper** | Бот для інди-розробників ігор | Node.js, MongoDB, Discord API |  🔧 В розробці |
-
----
-
-### 🤖 Моя бото-фабрика (GitHub активность)
-
-```mermaid
-graph LR
-    A[Идея 💡] --> B(Написав код)
-    B --> C{Працює?}
-    C -->|Так| D[Випустив бота 🚀]
-    C -->|Ні| E[Дебаг 🔍]
-    E --> F[Знайшов баг 🐛]
-    F --> B
-    D --> G[Користувачі радіют 😊]
-    G --> H[Мене це надихає ✨]
-    H --> A
+### 📊 Статистика
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
