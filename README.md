@@ -23,13 +23,7 @@ I focus on **System Programming**, **Cryptography**, and **Network Security**. C
 * **IoT Weather Station** – Python-based station with real-time Telegram alerts via Arduino.
 * **Security Scripts** – Custom tools for encryption and system monitoring.
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smokearbuz&show_icons=true&theme=tokyonight&count_private=true" alt="Yevhen's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smokearbuz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
-</p>
 
----
 <p align="center">
   <img src="https://img.shields.io/badge/Clean_Code-Applied-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Cryptography-blueviolet?style=flat-square" />
