@@ -1,30 +1,65 @@
-# Hi, I'm Yevhen Lytvyn 🛡️
-**Cybersecurity Student | Software Developer | Linux Enthusiast**
+Вариант 1: Полноценный README (Рекомендую)
+
+Создай репозиторий с названием, совпадающим с твоим ником (например, Jenwne/Jenwne), и добавь туда этот текст:
+Markdown
+
+# [Jenwne] --status-check
+
+```bash
+● jenwne.service - AI Startup Developer
+     Loaded: loaded (/etc/systemd/system/jenwne.service; enabled)
+     Active: active (running) since 2004-01-01 00:00:00 UTC
+   Main PID: 1337 (python3)
+     Status: "Building AI Ecosystems & Mini Apps"
+
+🛠 Tech Stack
+
+    Languages: Python, C, JavaScript
+
+    Frameworks: Aiogram, React (TWA), FastAPI
+
+    Infrastructure: Proxmox, Fedora, Docker, Tailscale
+
+    AI: LLM API Integration (OpenAI, Claude, DeepSeek)
+
+🚩 Current Projects
+
+    Red Flags Bot — AI-driven relationship analyzer (Telegram Mini App).
+
+    ITbase Clicker — Persistent Telegram Mini App game.
+
+📈 System Logs
+
+    [2026-05-13] Released @redflagsaibot 🚩
+
+    [2026-05-11] Migrated backend to personal Proxmox server 🚀
+
+    [Running] Working on new AI-driven automations...
+
+> systemctl restart motivation
+> status: active (running)
+
 
 ---
 
-### 🔍 Profile Overview
-I focus on **System Programming**, **Cryptography**, and **Network Security**. Currently diving deep into modular architectures and secure automation. 
-*(Навчаюсь та розробляю безпечні рішення)*
+### Вариант 2: Короткое Bio (Для боковой панели)
+Если нужно втиснуться в короткое поле описания профиля:
 
-### 🛠 Tech Stack & Tools
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Fedora-0B5794?style=for-the-badge&logo=fedora&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+> **Jenwne | AI & Bot Architect**
+> 
+> `exec start --project @redflagsaibot` 🚩
+> `stack: python | aiogram | twa | ai-api`
+> `systemctl status passion --active`
 
-- **Security:** Cryptography, Network Analysis, Pentesting Labs.
-- **System:** Linux Server Management, GNOME Customization, Shell Optimization.
-- **Hardware:** IoT Prototyping (Arduino), Serial Communication.
+---
 
-### 🚀 Featured Projects
-* **Cyberpunk MMORPG Bot** – Developing complex logic and database integration for game automation.
-* **IoT Weather Station** – Python-based station with real-time Telegram alerts via Arduino.
-* **Security Scripts** – Custom tools for encryption and system monitoring.
+### Почему это круто смотрится на GitLab/GitHub:
 
+* **Блоки кода:** Использование обратных кавычек (как в блоке `bash`) делает профиль похожим на настоящий терминал.
+* **Логи дат:** Это показывает твою активность. Когда человек видит дату релиза `2026-05-13`, он понимает, что ты активный разработчик «в моменте», а не забросил профиль 2 года назад.
+* **Systemctl:** Эта шутка связывает твой профиль в ТГ и Гитлабе в одну единую экосистему. 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean_Code-Applied-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Cryptography-blueviolet?style=flat-square" />
-</p>
+### Маленький совет:
+В GitLab ты можешь добавить **Pinned Projects**. Обязательно закрепи туда репозиторий с ботом (даже если он приватный, можно сделать публичным README или документацию), чтобы `Red Flags Bot` был первым, что видит посетитель.
+
+Ставим в профиль? 🚀
